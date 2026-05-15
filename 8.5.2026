@@ -1,0 +1,37 @@
+# Reporte Diario — 8.5.2026
+**Nombre:** Ignacio
+**Día:** 8
+ 
+---
+ 
+## 🚁 Drones
+ 
+### Actividades
+- Descarga e instalación de **PX4 Gazebo**
+- Configuración del entorno de simulación
+- Realización de pruebas básicas de vuelo en el simulador
+### Hallazgos
+- PX4 Gazebo fue instalado y configurado correctamente
+- Las pruebas básicas fueron completadas exitosamente
+- Se identificó un problema de espacio en la computadora personal, limitando el avance en esta área
+### Problemas
+- La computadora personal se quedó sin espacio en disco, interrumpiendo el trabajo con PX4 Gazebo
+---
+ 
+## 🤖 Automatización del Laboratorio
+ 
+### Actividades
+- Investigación sobre **OpenClaw** como herramienta para automatizar procesos del laboratorio
+### Hallazgos
+- OpenClaw fue identificado como una posibilidad viable para automatizar procesos dentro del laboratorio
+---
+ 
+## 🧠 Inteligencia Artificial (LLM)
+ 
+### Actividades
+- Instalación de **Ollama** en una laptop del laboratorio
+- Configuración del modelo de lenguaje **LLaMA 3.1** mediante Ollama
+### Hallazgos
+- Ollama fue instalado correctamente en la laptop
+- El modelo LLaMA 3.1 quedó operativo y listo para pruebas
+---
